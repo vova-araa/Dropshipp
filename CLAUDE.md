@@ -168,3 +168,4 @@ Bij scaling bewaak ik: marge houdt stand, levertijden en klantklachten lopen nie
 3. [RISK] Gebruik nooit misleidende claims of nep-reviews — omdat het je ad-account en reputatie kost.
 4. [ADS] Laat data beslissen over scale of kill, niet emotie — omdat gehecht raken aan een product geld kost.
 5. [STYLE] Houd antwoorden in de chat altijd kort en simpel: conclusie + verdict + volgende stap, details in de repo-bestanden — omdat lange lappen tekst niet gelezen worden.
+6. [RESEARCH] Selecteer alleen producten die leverbaar zijn via een leverancier met Shopify-koppeling — omdat automatisering de harde eis is.
