@@ -8,6 +8,8 @@ Dagelijks bijgewerkt door de operator-routine (07:00 UTC). Data beslist, niet em
 |---|---|---|
 | 2026-07-15 | Fabriek nog niet live | Wacht op: Shopify + API-token, leveranciersaccount, betaalprovider (zie plan/uitvoeringsplan.md) |
 
+**Store:** FluffPalace — domein `fluffpalace.shop` (in bezit van eigenaar). Niche: katten/huisdieren. Hero-test 1: katten-raamhangmat.
+
 ## Testqueue (cadans: 2/week zodra live)
 
 | # | Product | Status | Testbudget | Kill-criteria | Resultaat |
